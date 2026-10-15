@@ -28,6 +28,7 @@ public class SimpleDebugging {
                 }
             }
         }
+        System.out.println("hello ji");
         return primes;
     }
 
