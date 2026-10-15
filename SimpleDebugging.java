@@ -8,6 +8,7 @@ public class SimpleDebugging {
         boolean[] primes = calculatePrimes();
         printPrimes(primes);
         System.out.println("baby");
+        System.out.println("123");
     }
 
     /**
