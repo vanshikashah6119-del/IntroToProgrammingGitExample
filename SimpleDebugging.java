@@ -1,6 +1,7 @@
 public class SimpleDebugging {
 
     /**
+     * forgot to add the atuthor jai shree krishna 
      * Calculates and prints the primes between 0 and 100.
      */
     public static void main(String[] args) {
