@@ -1,12 +1,13 @@
 public class SimpleDebugging {
 
     /**
-     * forgot to add the atuthor jai shree krishna 
+     * forgot to add thiss!
      * Calculates and prints the primes between 0 and 100.
      */
     public static void main(String[] args) {
         boolean[] primes = calculatePrimes();
         printPrimes(primes);
+        System.out.println("Jai Shree Krishna!");
     }
 
     /**
