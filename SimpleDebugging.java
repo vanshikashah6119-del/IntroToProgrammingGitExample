@@ -7,6 +7,7 @@ public class SimpleDebugging {
         boolean[] primes = calculatePrimes();
         printPrimes(primes);
         System.out.println("offline online");
+        System.out.println("realllyyy goodbye");
 
     }
 
